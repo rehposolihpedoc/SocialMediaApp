@@ -2,7 +2,7 @@
 ## Description
 NoSQL is frequently used for social media platforms because it is more fluid than structured data. 
 
-## Table of Contents (Optional)
+## Table of Contents 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
 - [Credits](#credits)
