@@ -10,7 +10,7 @@ module.exports = {
           res.status(500).json(err);
         }
       },
-     //Get a single thought by id
+     //Get single thought by id
       async getSingleThought(req, res) {
         try {
           const thought = await Thought.findOne({ _id: req.params.thoughtId })
